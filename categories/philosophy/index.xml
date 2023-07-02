@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
-    <link>https://uncaged-coder.github.io/</link>
-    <description>Recent content on A Hugo website</description>
+    <title>Philosophy on A Hugo website</title>
+    <link>https://uncaged-coder.github.io/categories/philosophy/</link>
+    <description>Recent content in Philosophy on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uncaged-coder.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uncaged-coder.github.io/categories/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Of Ego, Fear, and Conflict: Towards a Transcendence for Conflict Resolution</title>
       <link>https://uncaged-coder.github.io/2023/of-ego-fear-and-conflict-towards-a-transcendence-for-conflict-resolution/</link>
@@ -16,15 +16,6 @@
       <description>Introduction: The Triad of Conflict In humanity’s constant endeavor to understand the conflictual nature of our existence, we have examined various facets of our behavior and interactions. At the heart of these reflections lie three interconnected and powerful factors: the desire to impose one’s viewpoint, fear, and ego. These three elements are often present in conflicts, whether they are interpersonal, social, or international.
 Dove representing peace
 The desire to impose one’s viewpoint: A Breeding Ground for Conflict Let’s start with the desire to impose one’s viewpoint.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://uncaged-coder.github.io/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>https://uncaged-coder.github.io/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
   </channel>

@@ -5,6 +5,34 @@
     <link>https://uncaged-coder.github.io/categories/</link>
     <description>Recent content in Categories on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://uncaged-coder.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uncaged-coder.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conflict</title>
+      <link>https://uncaged-coder.github.io/categories/conflict/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uncaged-coder.github.io/categories/conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ego</title>
+      <link>https://uncaged-coder.github.io/categories/ego/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uncaged-coder.github.io/categories/ego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>https://uncaged-coder.github.io/categories/philosophy/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uncaged-coder.github.io/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
