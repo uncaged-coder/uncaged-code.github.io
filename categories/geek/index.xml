@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geek on A Hugo website</title>
+    <link>https://uncaged-coder.github.io/categories/geek/</link>
+    <description>Recent content in Geek on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uncaged-coder.github.io/categories/geek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting a Blog with Hugo, R Markdown, and Python (Reticulate)</title>
+      <link>https://uncaged-coder.github.io/2023/starting-a-blog-with-hugo-r-markdown-and-python-reticulate/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uncaged-coder.github.io/2023/starting-a-blog-with-hugo-r-markdown-and-python-reticulate/</guid>
+      <description>I always prioritize simplicity. While many people today blog using platforms like WordPress, complete with an array of plugins and PHP-driven dynamic content, such complexity is often unnecessary. Take a moment to consider: why do we need dynamic content for something as straightforward as a blog?
+Traditional blogging platforms frequently expose users to security risks, especially when built on languages like PHP. Consequently, I’ve chosen to use a static site generator, Hugo, in conjunction with R Markdown and Python via the Reticulate package.</description>
+    </item>
+    
+  </channel>
+</rss>

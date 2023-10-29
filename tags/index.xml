@@ -6,7 +6,34 @@
     <description>Recent content in Tags on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uncaged-coder.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uncaged-coder.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogging</title>
+      <link>https://uncaged-coder.github.io/tags/blogging/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uncaged-coder.github.io/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://uncaged-coder.github.io/tags/hugo/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uncaged-coder.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://uncaged-coder.github.io/tags/python/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://uncaged-coder.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Conflict</title>
       <link>https://uncaged-coder.github.io/tags/conflict/</link>
