@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mon blogue</title>
+    <title>Blogue d&#39;Uncaged</title>
     <link>https://uncaged-coder.github.io/fr/</link>
-    <description>Recent content on Mon blogue</description>
+    <description>Recent content on Blogue d&#39;Uncaged</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uncaged-coder.github.io/fr/index.xml" rel="self" type="application/rss+xml" />

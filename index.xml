@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>Uncaged blog</title>
     <link>https://uncaged-coder.github.io/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on Uncaged blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 29 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uncaged-coder.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -34,7 +34,10 @@ The desire to impose one’s viewpoint: A Breeding Ground for Conflict Let’s s
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>https://uncaged-coder.github.io/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>Hi,
+I&amp;rsquo;m Abdel, also known as Uncaged Coder.
+Don&amp;rsquo;t set your expectations too high for this blog; it serves as a space for me to share my thoughts on a variety of subjects. The focus is primarily on Linux, open-source projects, and other geek-related topics.
+This blog is powered by blogdown.</description>
     </item>
     
   </channel>
