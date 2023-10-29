@@ -1,0 +1,85 @@
+---
+title: "Starting a Blog with Hugo, R Markdown, and Python (Reticulate)"
+author: "Uncaged Coder"
+date: "2023-10-29"
+output: #html_document
+  blogdown::html_page:
+    highlight: pygments
+params:
+  theme: solarized-dark
+categories: ["Geek"]
+tags: ["Hugo", "Python", "Blogging"]
+---
+
+```{R,  results='hide', echo=FALSE}
+library(reticulate)
+reticulate::use_python(Sys.which("python3"), required=TRUE)
+```
+
+I always prioritize simplicity. While many people today blog using platforms like WordPress, complete with an array of plugins and PHP-driven dynamic content, such complexity is often unnecessary. Take a moment to consider: why do we need dynamic content for something as straightforward as a blog?
+
+Traditional blogging platforms frequently expose users to security risks, especially when built on languages like PHP. Consequently, I've chosen to use a static site generator, Hugo, in conjunction with R Markdown and Python via the Reticulate package. This combination offers the flexibility, security, and versatility required to tailor a blog to my specific needs.
+
+# Using Utterances for Comments
+
+Granted, there are instances when dynamic content is essential—such as for implementing comments. In such cases, Utterances, an open-source commenting system designed for static pages, proves invaluable. It employs GitHub issues to manage blog comments, thereby efficiently leveraging GitHub's existing infrastructure.
+
+# Steps to Start Blogging with Hugo, R Markdown, Python, and Utterances
+
+## Step 1: Set Up Hugo
+
+Firstly, you will need to install Hugo. Please refer to the [official Hugo documentation](https://gohugo.io/getting-started/installing/) for the detailed guide.
+
+
+## Step 2: Create a New Site with Hugo
+
+To create a new site, use the following command in your command line or terminal:
+
+```{bash, eval=FALSE}
+hugo new site mynewsite
+```
+
+## Step 3: Setup R Markdown and Reticulate
+
+Install the `reticulate` package and set it up for use within R Markdown. This will allow you to run Python code chunks alongside R code chunks in your blog posts.
+
+```{R, eval=FALSE}
+install.packages("reticulate")
+install.packages("blogdown")
+```
+
+## Step 4: Setup Utterances for Comments
+
+Setting up Utterances requires a GitHub repository to store the comments as issues. For detailed instructions, refer to the official [Utterances guide](https://utteranc.es/).
+
+# Example Blog Post with Python
+
+```{python, eval=TRUE}
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Generate data points for the function f(x) = sin(x)
+x = np.linspace(-10, 10, 400)
+y = np.sin(x)
+
+# Create the plot
+plt.figure(figsize=(8, 6))
+
+# Plot the function
+plt.plot(x, y, label=r"$f(x)=\sin(x)$")
+
+# Add grid, title and labels
+plt.grid(True)
+plt.title("Plot of the function " + r"$f(x)=\sin(x)$")
+plt.xlabel("x")
+plt.ylabel("f(x)")
+
+# Add legend
+plt.legend(loc='upper right')
+
+# Show the plot
+plt.show()
+
+```
+As you can see, this setup allows you to create dynamic, interactive, and engaging blog posts that can contain a mixture of text, code, and visuals, all in a static and secure environment. Happy blogging!
+
