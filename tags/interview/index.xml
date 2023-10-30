@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interview on Uncaged blog</title>
+    <link>https://uncaged-coder.github.io/tags/interview/</link>
+    <description>Recent content in interview on Uncaged blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Mar 2017 14:53:25 +0000</lastBuildDate>
+    <atom:link href="https://uncaged-coder.github.io/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intel interview</title>
+      <link>https://uncaged-coder.github.io/2017/03-15-intel-interview/</link>
+      <pubDate>Wed, 15 Mar 2017 14:53:25 +0000</pubDate>
+      <guid>https://uncaged-coder.github.io/2017/03-15-intel-interview/</guid>
+      <description>alt text
+Do you want to work for Intel ?
+If you are curious, here is the test I did. You are supposed to do it online and you have 2 hours.
+Unfortunately I don’t remember exactly the question I had.
+Training test Find a palindrome in an array
+A is the array N is the size There were other special condition that I forgot, sorry.
+Example:
+A={-1,3,-4,5,1,-6,2,1};
+You can return 1 because</description>
+    </item>
+  </channel>
+</rss>
