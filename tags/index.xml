@@ -6,60 +6,49 @@
     <description>Recent content in Tags on Uncaged blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uncaged-coder.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://uncaged-coder.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging</title>
       <link>https://uncaged-coder.github.io/tags/blogging/</link>
       <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://uncaged-coder.github.io/tags/blogging/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hugo</title>
       <link>https://uncaged-coder.github.io/tags/hugo/</link>
       <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://uncaged-coder.github.io/tags/hugo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Python</title>
       <link>https://uncaged-coder.github.io/tags/python/</link>
       <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://uncaged-coder.github.io/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Conflict</title>
       <link>https://uncaged-coder.github.io/tags/conflict/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://uncaged-coder.github.io/tags/conflict/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ego</title>
       <link>https://uncaged-coder.github.io/tags/ego/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://uncaged-coder.github.io/tags/ego/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Philosophy</title>
       <link>https://uncaged-coder.github.io/tags/philosophy/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://uncaged-coder.github.io/tags/philosophy/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

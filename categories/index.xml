@@ -6,24 +6,21 @@
     <description>Recent content in Categories on Uncaged blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uncaged-coder.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://uncaged-coder.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Geek</title>
       <link>https://uncaged-coder.github.io/categories/geek/</link>
       <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://uncaged-coder.github.io/categories/geek/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Philosophy</title>
       <link>https://uncaged-coder.github.io/categories/philosophy/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://uncaged-coder.github.io/categories/philosophy/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
