@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cltq on Uncaged blog</title>
+    <link>https://uncaged-coder.github.io/tags/cltq/</link>
+    <description>Recent content in cltq on Uncaged blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Feb 2017 23:10:20 +0000</lastBuildDate>
+    <atom:link href="https://uncaged-coder.github.io/tags/cltq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mysterious cltq x86 instruction</title>
+      <link>https://uncaged-coder.github.io/2017/02-18-mysterious-cltq-x86-instruction/</link>
+      <pubDate>Sat, 18 Feb 2017 23:10:20 +0000</pubDate>
+      <guid>https://uncaged-coder.github.io/2017/02-18-mysterious-cltq-x86-instruction/</guid>
+      <description>Today I was working on some ugly C code and faced a strange issue:
+a returned value by a function was different when we are back to the caller. And no, it&amp;rsquo;s not a gcc bug ;)
+Let&amp;rsquo;s talk about that !
+create 2 files, file1.c and file2.c like this. File1.c:
+#include &lt; stdio.h&gt; int main(int argc, char* argv[]) { void* p = (void*)test_return(); printf(&#34;p = %p\n&#34;, p); return 0; } file2.</description>
+    </item>
+  </channel>
+</rss>

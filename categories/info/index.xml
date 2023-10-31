@@ -6,22 +6,42 @@
     <description>Recent content in info on Uncaged blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Mar 2017 14:53:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Aug 2018 20:53:25 +0000</lastBuildDate>
     <atom:link href="https://uncaged-coder.github.io/categories/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Funny C code</title>
+      <link>https://uncaged-coder.github.io/2018/08-15-funny-c-code/</link>
+      <pubDate>Wed, 15 Aug 2018 20:53:25 +0000</pubDate>
+      <guid>https://uncaged-coder.github.io/2018/08-15-funny-c-code/</guid>
+      <description>Here is something funny about C langage :)
+Watch carefuly this function below and try to guess what will this program print to the console.
+#include &lt; stdio.h &gt; int main(void) { int p[] = {0, 1, 2, 3, 4, 5, 6, 7}; int i=3; printf(&#34;i[%d]=%d\n&#34;, i, i[p]); return 0; } Is this code correct ? If the answer is yes, then what doest printf print ?
+Well &amp;hellip; the answer is easy &amp;hellip;</description>
+    </item>
     <item>
       <title>Intel interview</title>
       <link>https://uncaged-coder.github.io/2017/03-15-intel-interview/</link>
       <pubDate>Wed, 15 Mar 2017 14:53:25 +0000</pubDate>
       <guid>https://uncaged-coder.github.io/2017/03-15-intel-interview/</guid>
-      <description>alt text
-Do you want to work for Intel ?
+      <description>Do you want to work for Intel ?
 If you are curious, here is the test I did. You are supposed to do it online and you have 2 hours.
-Unfortunately I don’t remember exactly the question I had.
+Unfortunately I don&amp;rsquo;t remember exactly the question I had.
 Training test Find a palindrome in an array
 A is the array N is the size There were other special condition that I forgot, sorry.
 Example:
 A={-1,3,-4,5,1,-6,2,1};
 You can return 1 because</description>
+    </item>
+    <item>
+      <title>Mysterious cltq x86 instruction</title>
+      <link>https://uncaged-coder.github.io/2017/02-18-mysterious-cltq-x86-instruction/</link>
+      <pubDate>Sat, 18 Feb 2017 23:10:20 +0000</pubDate>
+      <guid>https://uncaged-coder.github.io/2017/02-18-mysterious-cltq-x86-instruction/</guid>
+      <description>Today I was working on some ugly C code and faced a strange issue:
+a returned value by a function was different when we are back to the caller. And no, it&amp;rsquo;s not a gcc bug ;)
+Let&amp;rsquo;s talk about that !
+create 2 files, file1.c and file2.c like this. File1.c:
+#include &lt; stdio.h&gt; int main(int argc, char* argv[]) { void* p = (void*)test_return(); printf(&#34;p = %p\n&#34;, p); return 0; } file2.</description>
     </item>
   </channel>
 </rss>
