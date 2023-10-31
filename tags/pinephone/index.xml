@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pinephone on Uncaged blog</title>
+    <link>https://uncaged-coder.github.io/tags/pinephone/</link>
+    <description>Recent content in pinephone on Uncaged blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 Jul 2020 10:40:33 +0200</lastBuildDate>
+    <atom:link href="https://uncaged-coder.github.io/tags/pinephone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pinephone emulation on qemu</title>
+      <link>https://uncaged-coder.github.io/2020/07-09-pinephone-emulation-on-qemu/</link>
+      <pubDate>Thu, 09 Jul 2020 10:40:33 +0200</pubDate>
+      <guid>https://uncaged-coder.github.io/2020/07-09-pinephone-emulation-on-qemu/</guid>
+      <description>Have you heard about pinephone device ? It&amp;rsquo;s a $150 smartphone driven by open source community for the software, and pine64 team for the hardware.
+Most part of the hardware is also open.
+• Allwinner A64 Quad Core
+• Mali 400 MP2 GPU
+• 2GB of LPDDR3 RAM GPU
+• 5.95″ LCD 1440×720 • HW switches: LTE/GNSS, WiFi, Microphone, Speaker, Cameras I have implemented in qemu what is needed to emulate pinephone, but be warned, you will only get a serial console.</description>
+    </item>
+  </channel>
+</rss>
