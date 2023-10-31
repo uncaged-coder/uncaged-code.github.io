@@ -8,6 +8,8 @@ languages:
     title: Blogue d'Uncaged
     weight: 2
 theme: hugo-lithium
+enableEmoji: true
+newContentEditor: "nvim"
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
@@ -33,6 +35,8 @@ params:
   highlightjsLang:
     - r
     - yaml
+    - c
+    - cpp
   highlightjsTheme: github
   highlightjsVersion: 9.12.0
   logo:
