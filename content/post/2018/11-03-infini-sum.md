@@ -1,8 +1,8 @@
 ---
 title: "1+2+3+4+5+...=-1/12 ????"
-date: "2018-11-03T14:53:25Z"
 author: "Uncaged Coder"
-draft: true
+date: "2018-11-03T14:53:25Z"
+draft: false
 categories: [ "science" ]
 tags: [ "maths" ]
 mathjax: true

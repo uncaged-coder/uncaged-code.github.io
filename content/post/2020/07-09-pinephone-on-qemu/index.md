@@ -10,7 +10,7 @@ tags : [ "pinephone", "pine64", "linux", "qemu" ]
 Have you heard about pinephone device ? It's a $150 smartphone driven by open source community for the software, and pine64 team for the hardware.<br>
 Most part of the hardware is also open.
 
-| ![alt text](/post/2020/pinephone/pinephone.jpg "Pinephone image") |  &bull; Allwinner A64 Quad Core<br>&bull; Mali 400 MP2 GPU<br>&bull; 2GB of LPDDR3 RAM  GPU<br>&bull; 5.95″ LCD 1440×720 <br>&bull;  HW switches: LTE/GNSS, WiFi, Microphone, Speaker, Cameras|
+| ![alt text](pinephone.jpg "Pinephone image") |  &bull; Allwinner A64 Quad Core<br>&bull; Mali 400 MP2 GPU<br>&bull; 2GB of LPDDR3 RAM  GPU<br>&bull; 5.95″ LCD 1440×720 <br>&bull;  HW switches: LTE/GNSS, WiFi, Microphone, Speaker, Cameras|
 | ------:| -----------:|
 
 I have implemented in qemu what is needed to emulate pinephone, but be warned, you will only get a serial console. Currently lima driver won't work, because the pinephone GPU is not implemented on qemu.<br>
@@ -42,7 +42,7 @@ Voila ! You have extracted what you need.
 **3.** Fix dts file: you should remove at least GPU related stuff from it. If you dont want to do it yourself, you can use mine:
 
 <pre><code class="Bash">
-> wget https://unxp.fr/post/2020/pinephone/dts_pinephone.dtb -O /tmp/qemu_img/dts_pinephone.dtb
+> wget https://uncaged-coder.github.io/2020/07-09-pinephone-emulation-on-qemu/dts_pinephone.dtb -O /tmp/qemu_img/dts_pinephone.dtb
 
 </code></pre>
 
@@ -51,7 +51,7 @@ the [dts source is here](/post/2020/pinephone/dts_pinephone)
 **4.** Get my patched version of qemu and build it. 
 
 <pre><code class="Bash">
-> git clone https://github.com/abdel-unxp/qemu.git
+> git clone https://github.com/uncaged-coder/qemu.git
 > cd qemu
 > git checkout pinephone_wip
 > ./configure
