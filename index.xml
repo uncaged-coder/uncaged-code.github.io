@@ -37,6 +37,18 @@ Most part of the hardware is also open.
 • 5.95″ LCD 1440×720 • HW switches: LTE/GNSS, WiFi, Microphone, Speaker, Cameras I have implemented in qemu what is needed to emulate pinephone, but be warned, you will only get a serial console.</description>
     </item>
     <item>
+      <title>1&#43;2&#43;3&#43;4&#43;5&#43;...=-1/12 ????</title>
+      <link>https://uncaged-coder.github.io/2018/11-03-1-2-3-4-5-...-1/12/</link>
+      <pubDate>Sat, 03 Nov 2018 14:53:25 +0000</pubDate>
+      <guid>https://uncaged-coder.github.io/2018/11-03-1-2-3-4-5-...-1/12/</guid>
+      <description>A few months ago I found an intersting youtube video explaining why we have $$\sum_{n=1}^{\infty} n = \frac{-1}{12}$$ .
+Wait &amp;hellip;. is it possible that the sum of positive number to equal to:
+a negative value ? &amp;#x1f632; a fractional number ? &amp;#x1f635; I don&amp;rsquo;t think so, but let&amp;rsquo;s dig into this.
+Here is the video I&amp;rsquo;m talking about:
+Okay &amp;hellip; so let&amp;rsquo;s compute $$ \sum_{n=1}^{\infty} n $$
+1st approcah: how you are supposed to compute it $$ \begin{align} \sum_{n=1}^{x} n &amp;amp; = \left(\frac{x(x+1)}{2}\right) \newline \sum_{n=1}^\infty x &amp;amp; = \lim\limits_{x \to \infty} \dfrac{x(x+1))}{2} = \infty \end{align} $$</description>
+    </item>
+    <item>
       <title>Funny C code</title>
       <link>https://uncaged-coder.github.io/2018/08-15-funny-c-code/</link>
       <pubDate>Wed, 15 Aug 2018 20:53:25 +0000</pubDate>

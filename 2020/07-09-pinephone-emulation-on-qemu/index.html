@@ -77,7 +77,7 @@ Most part of the hardware is also open.</p>
 <table>
 <thead>
 <tr>
-<th style="text-align:right"><img src="/post/2020/pinephone/pinephone.jpg" alt="alt text" title="Pinephone image"></th>
+<th style="text-align:right"><img src="pinephone.jpg" alt="alt text" title="Pinephone image"></th>
 <th style="text-align:right">• Allwinner A64 Quad Core<br>• Mali 400 MP2 GPU<br>• 2GB of LPDDR3 RAM  GPU<br>• 5.95″ LCD 1440×720 <br>•  HW switches: LTE/GNSS, WiFi, Microphone, Speaker, Cameras</th>
 </tr>
 </thead>
@@ -103,13 +103,13 @@ Also note that you will need to clone my qemu repo, because my patch is not (yet
 <p>Voila ! You have extracted what you need.</p>
 <p><strong>3.</strong> Fix dts file: you should remove at least GPU related stuff from it. If you dont want to do it yourself, you can use mine:</p>
 <pre><code class="Bash">
-> wget https://unxp.fr/post/2020/pinephone/dts_pinephone.dtb -O /tmp/qemu_img/dts_pinephone.dtb
+> wget https://uncaged-coder.github.io/2020/07-09-pinephone-emulation-on-qemu/dts_pinephone.dtb -O /tmp/qemu_img/dts_pinephone.dtb
 
 </code></pre>
 <p>the <a href="/post/2020/pinephone/dts_pinephone">dts source is here</a></p>
 <p><strong>4.</strong> Get my patched version of qemu and build it.</p>
 <pre><code class="Bash">
-> git clone https://github.com/abdel-unxp/qemu.git
+> git clone https://github.com/uncaged-coder/qemu.git
 > cd qemu
 > git checkout pinephone_wip
 > ./configure
