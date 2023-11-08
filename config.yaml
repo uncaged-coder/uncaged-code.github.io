@@ -42,7 +42,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo.jpg
+    url: uncaged-coder.png
     width: 50
   utterances:
     repo: "uncaged-coder/uncaged-blog-comment"
