@@ -5,9 +5,9 @@ languages:
     weight: 1
     title: Uncaged blog
   fr:
-    title: Blogue d'Uncaged
+    title: Blog d'Uncaged
     weight: 2
-theme: hugo-lithium
+theme: hugo-uncaged
 enableEmoji: true
 newContentEditor: "nvim"
 googleAnalytics: ''

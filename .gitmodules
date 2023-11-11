@@ -1,4 +1,4 @@
-[submodule "themes/hugo-lithium"]
-	path = themes/hugo-lithium
-	url = https://github.com/uncaged-coder/hugo-lithium
+[submodule "themes/hugo-uncaged"]
+	path = themes/hugo-uncaged
+	url = https://github.com/uncaged-coder/hugo-uncaged
 	branch = uncaged-theme
